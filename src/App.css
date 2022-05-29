@@ -1,0 +1,16 @@
+.AppLight {
+  text-align: center;
+  background-color: lightgrey;
+  color: black;
+}
+.AppDark{
+  text-align: center;
+  background-color: black;
+  color: beige;
+}
+.App{
+  text-align: center;
+  background-color: lightgrey;
+  color: black;
+}
+
